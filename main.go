@@ -114,7 +114,7 @@ func choise_char_class() string {
 func main() {
 	fmt.Println("Приветствую тебя, искатель приключений!")
 	fmt.Println("Прежде чем начать игру...")
-
+	//
 	var char_name string
 	fmt.Print("...назови себя: ")
 	fmt.Scanf("%s\n", &char_name)
